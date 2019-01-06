@@ -1,0 +1,101 @@
+.jumbotron{
+    margin-bottom: 3px;
+    color:grey;
+    background-image: url(../img/everest1.jpg);
+}
+.jumbotron .display-4{
+    color:white;
+}
+.jumbotron .lead{
+    color: black;
+}
+.jumbotron .p1{
+    color: black;
+}
+.navbar{
+    background-color:greenyellow;
+    margin-bottom: 40px;
+}
+.card{
+    margin: 0 auto;
+    border-block-end-width: 10px;
+    border-bottom-color:greenyellow;
+    margin-bottom: 40px;
+}
+.card-img-top{
+    height: 200px;
+}
+
+/* .main-container{
+ padding: 0 50px;   
+} */
+.welcome{
+    color:black;
+    margin-bottom: 40px;
+    /* text-align: center; */
+}
+.embed-responsive{
+    margin: 0 auto;
+    height: 500px;
+    width: 900px;
+    margin-bottom: 40px;
+}
+/* .testimonial{
+    margin-left: 10px;
+    margin-right: 5px;
+} */
+.tes-carousel .row{
+    margin: 0;
+}
+.carousel-image{
+    margin: 0 auto;
+    height: 300px;
+    margin-bottom: 40px;
+    width: 500px;
+}
+.packages{
+    margin-left: 30px;
+    margin-bottom: 40px;
+}
+.packages-row .row{
+    margin: 0;
+}
+.card-content1 .row{
+    margin: 0;
+}
+.associated{
+    margin-top: 30px;
+}
+.neplogo{
+    width: 70px;
+    margin-top: 50px;
+}
+.newsletter{
+    margin-top: 30px;
+}
+.newsletter .facebook{
+    width: 40px;
+    margin-top: 60px;
+}
+.newsletter .instagram{
+    width: 40px;
+    margin-top: 60px;
+}
+.newsletter .youtube{
+    width: 40px;
+    margin-top: 60px;
+}
+.contact{
+    margin-top: 30px;
+}
+.sub-button{
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.footer{
+    height: 300px;
+    background-color:greenyellow;
+}
+.footer .row{
+    margin: 0;
+}
